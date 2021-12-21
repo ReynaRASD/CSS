@@ -1,0 +1,25 @@
+/**/
+
+h1{
+    font-size: 36px;
+    color: black;
+}
+
+body{
+    background-color: rgb(32, 155, 104);
+}
+
+.blanco{
+color: white;
+font-style: italic;
+}
+.rojo{
+    color: red;
+}
+.beige{
+    color: bisque;
+}
+.amarillo{
+    color: rgb(240, 178, 23);
+    font-family:'Lucida Sans';
+}

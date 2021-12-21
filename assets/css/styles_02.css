@@ -1,0 +1,23 @@
+
+h1{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color:cadetblue;
+}
+
+.fechas{
+    color: coral;
+}
+.orange{
+color: orangered;
+font-weight: bold;
+}
+
+.whitegreen{
+color: green;
+background-color: white;
+font-style: italic;
+}

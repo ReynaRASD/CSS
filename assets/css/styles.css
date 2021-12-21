@@ -1,0 +1,53 @@
+    /*Comentarios en CSS*/
+   
+        
+    .encabezado{
+
+
+        /*font-size es para el tamano de fuente
+        Puedes usar, in=pulgadas, cm=centimetros, en vez de px=pixeles. Hasta porcentajes=%.
+        em
+        rem
+        */
+        font-size: 72px;
+
+        /*color de fuente*/
+        color:palevioletred;
+
+        /*background-color=Color de fondo*/
+        background-color: rgb(0, 0, 0);
+
+        /*Nos permite alinear el texto*/
+        text-align: center;
+
+        /*Para poner en mayusculas   minusculo=lowecase*/
+        text-transform: uppercase;
+    }
+    
+   body{
+        background-color: darkgray;
+    }
+
+    #texto {
+color: aliceblue;
+background-color: blue;
+font-size: 24px;
+font-style: italic;
+    }
+
+    p {
+        color:crimson; 
+        background-color: azure;
+
+    }
+
+    p {
+        color:chocolate;
+        background-color: beige;
+
+    }
+
+    .texto{
+color:darkblue;
+background-color:aquamarine;
+    }
